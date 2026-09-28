@@ -9,7 +9,7 @@
  * WC requires at least: 6.0
  * Text Domain: taghir-gheymat-hamkaran
  *
- * سازنده: این افزونه را من، رضا غلامی، ساختم.
+ * سازنده: رضا غلامی
  *
  * فیلدها:
  *   همکار نقد:     _knd_colleague_cash_price_above
