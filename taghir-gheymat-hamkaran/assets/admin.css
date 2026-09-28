@@ -1,0 +1,59 @@
+.knd-cp-wrap {
+  max-width: 1400px;
+}
+
+.knd-cp-card {
+  background: #fff;
+  border: 1px solid #c3c4c7;
+  padding: 16px 20px;
+  margin: 16px 0;
+}
+
+.knd-cp-resume {
+  border-color: #dba617;
+  background: #fcf9e8;
+}
+
+.knd-cp-actions {
+  margin: 16px 0;
+}
+
+.knd-cp-progress {
+  margin: 16px 0;
+}
+
+.knd-cp-progress-bar {
+  height: 18px;
+  background: #dcdcde;
+  border-radius: 9px;
+  overflow: hidden;
+}
+
+.knd-cp-progress-bar span {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: #2271b1;
+  transition: width 0.2s ease;
+}
+
+.knd-cp-table-wrap table {
+  margin-top: 8px;
+}
+
+.knd-cp-batch-head td {
+  background: #f0f0f1;
+  font-weight: 600;
+}
+
+.knd-cp-status-ok {
+  color: #00a32a;
+}
+
+.knd-cp-status-err {
+  color: #d63638;
+}
+
+.knd-cp-wrap input[type="number"] {
+  width: 80px;
+}
